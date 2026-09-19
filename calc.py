@@ -15,7 +15,7 @@ def divide(a, b):
     return a / b
 
 def calculator():
-    print("===== Simple Calculator =====")
+    print("===== Simple nomral Calculator =====")
     print("Operations: add | subtract | multiply | divide")
     print("Type 'quit' to exit")
     print()
